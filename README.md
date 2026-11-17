@@ -6,7 +6,7 @@ Hides the loudest automation tells so anti-bot scripts score you as a normal bro
 
 ## Install
 
-[Click here to install in ScriptCat](https://raw.githubusercontent.com/chirag127/userscripts/main/scripts/bot-signal-spoofer/bot-signal-spoofer.user.js)
+[Click here to install in ScriptCat](https://raw.githubusercontent.com/chirag127/bot-signal-spoofer-userscript/main/bot-signal-spoofer.user.js)
 
 ## What it patches
 

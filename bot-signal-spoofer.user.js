@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Bot Signal Spoofer
-// @namespace    https://github.com/chirag127/userscripts
+// @namespace    https://github.com/chirag127/bot-signal-spoofer-userscript
 // @version      1.0.0
 // @description  Makes an automated browser look human to anti-bot scripts: clears navigator.webdriver, fakes plugins/mimeTypes, chrome runtime, hardware and WebGL strings, and answers permissions.query. ScriptCat switch, on by default.
 // @author       chirag127
@@ -12,10 +12,10 @@
 // @grant        GM_log
 // @grant        CAT_registerMenuInput
 // @license      MIT
-// @homepageURL  https://github.com/chirag127/userscripts/tree/main/scripts/bot-signal-spoofer
-// @supportURL   https://github.com/chirag127/userscripts/issues
-// @updateURL    https://raw.githubusercontent.com/chirag127/userscripts/main/scripts/bot-signal-spoofer/bot-signal-spoofer.user.js
-// @downloadURL  https://raw.githubusercontent.com/chirag127/userscripts/main/scripts/bot-signal-spoofer/bot-signal-spoofer.user.js
+// @homepageURL  https://github.com/chirag127/bot-signal-spoofer-userscript
+// @supportURL   https://github.com/chirag127/bot-signal-spoofer-userscript/issues
+// @updateURL    https://raw.githubusercontent.com/chirag127/bot-signal-spoofer-userscript/main/bot-signal-spoofer.user.js
+// @downloadURL  https://raw.githubusercontent.com/chirag127/bot-signal-spoofer-userscript/main/bot-signal-spoofer.user.js
 // ==/UserScript==
 
 (() => {
